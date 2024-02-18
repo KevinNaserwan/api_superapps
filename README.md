@@ -28,7 +28,7 @@ cd superapps-api
 
 bash
 
-go mod tidy
+    go mod tidy
 
 Running the API
 
@@ -36,6 +36,6 @@ To run the SuperApps API, execute the following command:
 
 bash
 
-go run main.go
+    go run main.go
 
 The API server will start running on http://localhost:8080.
